@@ -19,5 +19,5 @@ const name = prompt("Введите ваше имя:");
 if (name.charAt(0).toUpperCase() === 'A') {
   console.log("Welcome, " + name + "!");
 } else {
-  console.log("доступ отказан.");
+  console.log("Go ahead");
 }
